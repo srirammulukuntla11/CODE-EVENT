@@ -45,8 +45,3 @@ This project is useful for:
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute it with proper credit.
 
 
-👉 After this, your README will be **well-structured, professional, and detailed**.  
-
-Do you also want me to give you instructions on how to **enable GitHub Pages** so your project runs live online with a shareable link?
-```
-
