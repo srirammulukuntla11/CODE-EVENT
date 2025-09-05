@@ -13,9 +13,13 @@ It listens for key presses and displays useful information about the key in real
 - Beginner-friendly project to learn JavaScript keyboard events
 
 📂 Project Structure
+
 ├── index.html   # Main HTML file
+
 ├── style.css    # CSS file for styling
+
 ├── script.js    # JavaScript file to handle key events
+
 
 💻 How to Run
 1. Clone this repository:
