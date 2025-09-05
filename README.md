@@ -1,4 +1,5 @@
 🎹 Code Event
+
 **Code Event** is a simple and interactive web application built using **HTML, CSS, and JavaScript**.  
 It listens for key presses and displays useful information about the key in real time:
 - **event.key** → The actual key pressed (e.g., `A`, `Enter`, `Space`)  
